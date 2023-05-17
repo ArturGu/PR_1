@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\КНТЕУ\II курс\II семестр\ООП\PR_4\AnonymousMethod\AnonymousMethod\bin\Debug\AnonymousMethod.exe.config
+C:\Users\Admin\Desktop\КНТЕУ\II курс\II семестр\ООП\PR_4\AnonymousMethod\AnonymousMethod\bin\Debug\AnonymousMethod.exe
+C:\Users\Admin\Desktop\КНТЕУ\II курс\II семестр\ООП\PR_4\AnonymousMethod\AnonymousMethod\bin\Debug\AnonymousMethod.pdb
+C:\Users\Admin\Desktop\КНТЕУ\II курс\II семестр\ООП\PR_4\AnonymousMethod\AnonymousMethod\obj\Debug\AnonymousMethod.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\КНТЕУ\II курс\II семестр\ООП\PR_4\AnonymousMethod\AnonymousMethod\obj\Debug\AnonymousMethod.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\КНТЕУ\II курс\II семестр\ООП\PR_4\AnonymousMethod\AnonymousMethod\obj\Debug\AnonymousMethod.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\КНТЕУ\II курс\II семестр\ООП\PR_4\AnonymousMethod\AnonymousMethod\obj\Debug\AnonymousMethod.exe
+C:\Users\Admin\Desktop\КНТЕУ\II курс\II семестр\ООП\PR_4\AnonymousMethod\AnonymousMethod\obj\Debug\AnonymousMethod.pdb
